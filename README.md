@@ -1,3 +1,3 @@
 # webshop
-webshop bootcamp
-test
+A simple webshop with PHP and Mysql
+It works
